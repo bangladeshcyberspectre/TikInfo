@@ -71,8 +71,15 @@ pkg install python -y
 # Step 3: Install dependencies
 pip install cloudscraper requests colorama
 
-# Step 4: Run
-python tikinfo_v3.py
+# Step 4 : git clone
+git clone https://github.com/bangladeshcyberspectre/TikInfo.git
+
+# Step 5 : Run
+cd TikInfo
+
+# Step 6 : Run
+bash 
+
 ```
 
 ---
