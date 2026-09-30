@@ -1,0 +1,27 @@
+{
+  "tool": "TikInfo Pro",
+  "version": "3.0",
+  "team": "Bangladesh Cyber Spectre",
+  "ceo": "Ochena Gamer",
+
+  "settings": {
+    "timeout": 20,
+    "retry_count": 3,
+    "delay_between_requests": 1.5,
+    "save_reports": true,
+    "report_folder": "reports"
+  },
+
+  "methods": {
+    "tikwm":        true,
+    "tiktok_page":  true,
+    "rapidapi":     false,
+    "oembed":       true
+  },
+
+  "ban_thresholds": {
+    "critical_score": 80,
+    "high_score":     60,
+    "medium_score":   40
+  }
+}
