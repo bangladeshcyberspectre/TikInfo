@@ -78,7 +78,7 @@ git clone https://github.com/bangladeshcyberspectre/TikInfo.git
 cd TikInfo
 
 # Step 6 : Run
-python tikinfo_v3.py 
+python tikinfo_v6.py 
 
 ```
 
